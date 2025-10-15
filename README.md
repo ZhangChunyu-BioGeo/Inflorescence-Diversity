@@ -16,7 +16,7 @@ This project is licensed under the Apache License, Version 2.0. See the `LICENSE
 
 ## Repository Link
 
-For peer review: `https://anonymous.4open.science/XXXXX`
+For peer review: `https://gitfront.io/r/ZhangChunyu-BioGeo/fsm6drjeQ8GC/Inflorescence-Diversity/`.
 Upon publication, the repository will be made publicly available on GitHub: `https://github.com/Chunyu-Zhang-BioGeo/Inflorescence-Diversity` (link to be finalized).
 
 ## System Requirements
