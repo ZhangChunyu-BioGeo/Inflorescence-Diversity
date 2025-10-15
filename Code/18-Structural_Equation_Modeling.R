@@ -30,14 +30,11 @@ df[vars] <- lapply(df[vars], normalize)
 # Part 2: Define and Fit the Structural Equation Model
 # -------------------------------------------------------------------------
 # Define the SEM model structure using lavaan syntax.
-model_spec <- '
-  # Hypothesized paths for direct effects
-  MCI ~ PC1                  # Climate (PC1) influences co-occurrence intensity (MCI)
-  MDT ~ MCI + PC1            # Temperature (MDT) is influenced by MCI and climate
-  PD ~ MCI + PC1             # Phylogenetic diversity (PD) is influenced by MCI and climate
-  Indeterminate_adj  ~ MDT + PC1  # Inflorescence trait is driven by temperature and climate
-  
-  #  response variable, hypothesized to be influenced by multiple factors
+model_spec <-'
+  MCI ~ PC1
+  MDT ~ MCI + PC1
+  PD ~ MCI + PC1
+  Indeterminate_adj  ~ MDT + PC1
   H_Rank ~ PD + MCI + PC1 + Indeterminate_adj
 '
 
@@ -54,3 +51,4 @@ summary(sem_fit, standardized = TRUE, rsquare = TRUE)
 # Print a comprehensive set of model fit indices.
 cat("\n--- Overall Model Fit Measures ---\n")
 print(fitMeasures(sem_fit))
+
