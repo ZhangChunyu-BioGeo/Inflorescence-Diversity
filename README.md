@@ -2,7 +2,7 @@
 
 This repository contains the R code and supporting data files for the analyses presented in the manuscript:
 
-> Shao, M., Zhang, C., Wang, R., Wang, H., & Zheng, P. (submitted to *Journal of Ecology*). Ecological and Evolutionary Drivers of Inflorescence Diversity in Chinese Angiosperms. 
+> Shao, M. & Zhang, C., Wang, R., Wang, H. & Zheng, P. (submitted to *Journal of Ecology*). Ecological and Evolutionary Drivers of Inflorescence Diversity in Chinese Angiosperms. 
 >
 > *Mingxue Shao and Chunyu Zhang contributed equally to this study. Hui Wang and Peiming Zheng contributed equally to this study.*
 
@@ -16,8 +16,7 @@ This project is licensed under the Apache License, Version 2.0. See the `LICENSE
 
 ## Repository Link
 
-For peer review: `https://gitfront.io/r/ZhangChunyu-BioGeo/fsm6drjeQ8GC/Inflorescence-Diversity/`.
-Upon publication, the repository will be made publicly available on GitHub: `https://github.com/Chunyu-Zhang-BioGeo/Inflorescence-Diversity` (link to be finalized).
+The repository is available on GitHub: `https://github.com/Chunyu-Zhang-BioGeo/Inflorescence-Diversity`.
 
 ## System Requirements
 
@@ -59,7 +58,7 @@ Each block of scripts corresponds to a major analytical section and figure in th
 * `04-ML_Models_P1_Generate_Simulated_Data.R`
 * `05-ML_Models_P2_Process_Simulated_Data.R`
 * `06-ML_Models_P3_Process_Observed_Data.R`
-* `07-ML_Models_P4_Calculate_Means_and_P_Values.R
+* `07-ML_Models_P4_Calculate_Means_and_P_Values.R`
 * `08.1-ML_Models_P5_Visualize_Results_Indeterminate_adj.R`
 * `08.2-ML_Models_P6_Visualize_Results_H_Rank.R`
 
@@ -69,7 +68,7 @@ Each block of scripts corresponds to a major analytical section and figure in th
 * `11-Evolutionary_History_P3_Summarize_SCM_Results.R`
 * `12-Evolutionary_History_P4_Extract_Paleoclimate_Data.R`
 * `13-Evolutionary_History_P5_Visualize_SCM_Results.R`
-* `14-Evolutionary_History_P6_Regression_Analysis_GMST.R
+* `14-Evolutionary_History_P6_Regression_Analysis_GMST.R`
 
 * **Figure 4: Co-occurrence with Potential Pollinators**
 * `15-Pollinator_Cooccurrence_Strength_Observed.R`
