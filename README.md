@@ -6,7 +6,7 @@ This repository contains the R code and supporting data files for the analyses p
 >
 > *Mingxue Shao and Chunyu Zhang contributed equally to this study. Hui Wang and Peiming Zheng contributed equally to this study.*
 
-The code in this repository, written by Chunyu Zhang, implements the complete analytical pipeline for the manuscript. This includes data processing, null model testing, machine learning model comparisons (RF, GBM, etc.), phylogenetic comparative methods (ancestral state reconstruction), plant-pollinator co-occurrence analysis, and structural equation modeling (SEM).
+The code in this repository, written by Chunyu Zhang using data curated by Mingxue Shao, implements the complete analytical pipeline for the manuscript. This includes data processing, null model testing, machine learning model comparisons (RF, GBM, etc.), phylogenetic comparative methods (ancestral state reconstruction), plant-pollinator co-occurrence analysis, and structural equation modeling (SEM).
 
 All analyses were performed in R (version 4.4.2 or higher). The code is structured as a sequential workflow to ensure full reproducibility of the findings on the spatial patterns and drivers of inflorescence diversity across 25,778 Chinese angiosperm species.
 
@@ -17,6 +17,7 @@ This project is licensed under the Apache License, Version 2.0. See the `LICENSE
 ## Repository Link
 
 The repository is available on GitHub: `https://github.com/Chunyu-Zhang-BioGeo/Inflorescence-Diversity`.
+A static version of this repository is also available on Zenodo: `10.5281/zenodo.18030771`.
 
 ## System Requirements
 
