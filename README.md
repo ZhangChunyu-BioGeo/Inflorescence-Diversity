@@ -17,7 +17,7 @@ This project is licensed under the Apache License, Version 2.0. See the `LICENSE
 ## Repository Link
 
 The repository is available on GitHub: `https://github.com/ZhangChunyu-BioGeo/Inflorescence-Diversity`.
-A static version of this repository is also available on Zenodo: `10.5281/zenodo.18030771`.
+A static version of this repository is also available on Zenodo: `10.5281/zenodo.18195725`.
 
 ## System Requirements
 
