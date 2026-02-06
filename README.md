@@ -2,7 +2,7 @@
 
 This repository contains the R code and supporting data files for the analyses presented in the manuscript:
 
-> Shao, M. & Zhang, C., Wang, R., Wang, H. & Zheng, P. (submitted to *Journal of Ecology*). Ecological and Evolutionary Drivers of Inflorescence Diversity in Chinese Angiosperms. 
+> Shao, M., Zhang, C., Wang, R., Wang, H., & Zheng,	P. (2026). Ecological and evolutionary drivers of inflorescence diversity in Chinese angiosperms. Journal of Ecology, 114, e70246. https://doi.org/10.1111/13652745.7024
 >
 > *Mingxue Shao and Chunyu Zhang contributed equally to this study. Hui Wang and Peiming Zheng contributed equally to this study.*
 
